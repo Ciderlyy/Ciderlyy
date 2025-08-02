@@ -17,10 +17,34 @@
 - 🔭 Currently working on **Military Automation** 
 - 🌱 Learning **Ethical Hacking** (the legal kind, mostly)
 - 💬 Ask me about **Python, Web Dev, Automation**
-- 📫 Reach me at **demonicrift9@gmail.com** (I'll probably respond... eventually)
+- 📫 Reach me at **demonicrift9[at]gmail[dot]com**
 - ⚡ Fun fact: **I'm a Deepwoken gamer** 
 - 🎯 Goal: **Making technology work so I don't have to**
 - 🏆 Achievement: **Survived another day**
+
+<details>
+<summary>👀 Here's the serious version (click to expand)</summary>
+
+I'm a developer with experience in Python and web automation, currently working in a high-security military environment. I specialize in building tools that solve repetitive tasks, streamline operations, and increase reliability under strict operational constraints.
+
+My long-term goal is to enter the cybersecurity field as an ethical hacker with expertise in scripting, digital forensics, and threat mitigation.
+
+</details>
+
+---
+
+## 🔧 Featured Projects
+
+### 🛡️ Military Automation Toolkit
+A command-line toolkit to automate SAF workflows like:
+- 📅 Duty scheduling with leave collision detection
+- 📦 Inventory & Store IC tools
+- 📊 Performance tracking dashboards (IPPT, VOC, Range)
+
+Built with:
+- Python, Google Sheets API, Pandas
+
+[👉 View Repo](https://github.com/Ciderlyy/military-automation-toolkit) <!-- Replace with actual repo link -->
 
 ---
 
@@ -68,7 +92,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderlyy&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
 </div>
 
-*Yes, I know my streak is pathetic. I have a life, okay?*
+---
+
+## 🌀 3D Contribution Animation
+
+<div align="center">
+  <img src="https://github.com/Ciderlyy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+> To make this work, follow [this guide](https://github.com/yoshi389111/github-profile-3d-contrib) to generate your own 3D contribution graph
 
 ---
 

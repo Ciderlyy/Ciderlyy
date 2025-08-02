@@ -25,9 +25,9 @@
 <details>
 <summary>👀 Here's the serious version (click to expand)</summary>
 
-I'm a developer with experience in Python and web automation, currently working in a high-security military environment. I specialize in building tools that solve repetitive tasks, streamline operations, and increase reliability under strict operational constraints.
+I'm a developer with experience in Python and web automation, currently working in a high-security military environment. I build tools that automate SAF internal processes such as duty assignment, equipment tracking, and KPI reporting.
 
-My long-term goal is to enter the cybersecurity field as an ethical hacker with expertise in scripting, digital forensics, and threat mitigation.
+My long-term goal is to specialize in cybersecurity and ethical hacking. I'm actively learning about network security, malware analysis, and threat intelligence while applying automation to real-world tasks.
 
 </details>
 
@@ -38,13 +38,15 @@ My long-term goal is to enter the cybersecurity field as an ethical hacker with 
 ### 🛡️ Military Automation Toolkit
 A command-line toolkit to automate SAF workflows like:
 - 📅 Duty scheduling with leave collision detection
-- 📦 Inventory & Store IC tools
-- 📊 Performance tracking dashboards (IPPT, VOC, Range)
+- 📦 Store IC tools for inventory logging
+- 📊 Performance tracking (IPPT, VOC, Range)
 
 Built with:
-- Python, Google Sheets API, Pandas
+- Python, Google Sheets API, Pandas, Regex
 
-[👉 View Repo](https://github.com/Ciderlyy/military-automation-toolkit) <!-- Replace with actual repo link -->
+[👉 View Repo](https://github.com/Ciderlyy/military-automation-toolkit)
+
+> Some of my work is private or sensitive due to operational context 👀 — but I’m happy to talk shop.
 
 ---
 
@@ -91,16 +93,6 @@ Built with:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderlyy&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
 </div>
-
----
-
-## 🌀 3D Contribution Animation
-
-<div align="center">
-  <img src="https://github.com/Ciderlyy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
-> To make this work, follow [this guide](https://github.com/yoshi389111/github-profile-3d-contrib) to generate your own 3D contribution graph
 
 ---
 

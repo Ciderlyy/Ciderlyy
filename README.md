@@ -10,21 +10,21 @@
 
 ---
 
-## 🚀 About Me (if you care)
+## 🚀 About Me
 
 <img align="right" alt="Me coding at 3 AM" width="350" src="https://mitadmissions.org/wp-content/uploads/2020/12/sadcomputer.gif">
 
-- 🔭 Currently working on **Military Automation** (because apparently that's a thing)
+- 🔭 Currently working on **Military Automation** 
 - 🌱 Learning **Ethical Hacking** (the legal kind, mostly)
-- 💬 Ask me about **Python, Web Dev, Automation** - or don't, I'm not your dad
+- 💬 Ask me about **Python, Web Dev, Automation**
 - 📫 Reach me at **demonicrift9@gmail.com** (I'll probably respond... eventually)
-- ⚡ Fun fact: **I'm a Deepwoken gamer** (yes, I'm that person)
+- ⚡ Fun fact: **I'm a Deepwoken gamer** 
 - 🎯 Goal: **Making technology work so I don't have to**
-- 🏆 Achievement: **Survived another day without adulting properly**
+- 🏆 Achievement: **Survived another day**
 
 ---
 
-## 🌐 Social Media (if you're into that)
+## 🌐 Social Media
 
 <div align="center">
   <a href="https://twitter.com/real_ciderly" target="_blank">
@@ -34,8 +34,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-*Warning: I'm funnier on Twitter than I am in real life*
 
 ---
 
@@ -96,5 +94,3 @@
     <img src="https://img.shields.io/badge/Buy+me+a+coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
-
-*Or just follow me on Twitter. That's free.*

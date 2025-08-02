@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ciderly&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ciderlyy&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
@@ -53,16 +53,16 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciderly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderly&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciderlyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderlyy&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciderly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciderlyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderly&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderlyy&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ciderly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ciderlyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---

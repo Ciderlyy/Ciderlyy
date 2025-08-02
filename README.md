@@ -1,24 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ciderly</h1>
-<h3 align="center">A lazy programmer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ciderly;Automation+Engineer;Ethical+Hacking+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
+<br/>
 
-- 🔭 I’m currently working on **Military Automation**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ciderly&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
 
-- 🌱 I’m currently learning **ethical hacking**
+---
 
-- 📫 How to reach me **demonicrift9@gmail.com*
+## 🚀 About Me
 
-- ⚡ Fun fact **im a deepwoken gamer**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/real_ciderly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_ciderly" height="30" width="40" /></a>
-</p>
+- 🔭 Currently working on **Military Automation Systems**
+- 🌱 Diving deep into **Ethical Hacking & Cybersecurity**
+- 💬 Ask me about **Python, Web Development, Automation**
+- 📫 Reach me at **demonicrift9@gmail.com**
+- ⚡ Fun fact: **I'm a Deepwoken gaming enthusiast**
+- 🎯 Goal: **Making technology work smarter, not harder**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🌐 Connect with me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciderly&show_icons=true&locale=en" alt="ciderly" /></p>
+<div align="center">
+  <a href="https://twitter.com/real_ciderly" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:demonicrift9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciderly&" alt="ciderly" /></p>
+---
+
+## 🛠️ Languages and Tools:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,linux,mongodb,mysql&perline=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontWeight=600&fontSize=18&lineCount=3&theme=github_dark&line1=Python%2Cpython%2C3776ab%3BJavaScript%2Cjavascript%2Cf7df1e%3BHTML%2Chtml5%2Ce34f26%3B&line2=CSS%2Ccss3%2C1572b6%3BPHP%2Cphp%2C777bb4%3BLinux%2Clinux%2Cfcc624%3B&line3=MongoDB%2Cmongodb%2C47a248%3BMySQL%2Cmysql%2C4479a1%3B" alt="Tech Stack" />
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciderly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderly&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciderly&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderly&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ciderly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <p>💙 If you like my work, consider supporting me!</p>
+  <a href="https://ko-fi.com/ciderly" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>

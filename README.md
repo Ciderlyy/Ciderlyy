@@ -44,7 +44,7 @@ A command-line toolkit to automate SAF workflows like:
 Built with:
 - Python, Google Sheets API, Pandas, Regex
 
-[👉 View Repo](https://github.com/Ciderlyy/military-automation-toolkit](https://github.com/Ciderlyy/SOFUN-Tracker)
+[👉 View Repo](https://github.com/Ciderlyy/SOFUN-Tracker)
 
 > Some of my work is private or sensitive due to operational context 👀 — but I’m happy to talk shop.
 

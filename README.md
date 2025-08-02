@@ -27,7 +27,7 @@
 
 I'm a developer with experience in Python and web automation, currently working in a high-security military environment. I build tools that automate SAF internal processes such as duty assignment, equipment tracking, and KPI reporting.
 
-My long-term goal is to specialize in cybersecurity and ethical hacking. I'm actively learning about network security, malware analysis, and threat intelligence while applying automation to real-world tasks.
+My long-term goal is to specialize in cybersecurity and ethical hacking. I'm learning about network security, malware analysis, and threat intelligence in my free time while applying automation to real-world tasks.
 
 </details>
 

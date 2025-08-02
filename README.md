@@ -42,7 +42,7 @@ A command-line toolkit to automate SAF workflows like:
 - 📊 Performance tracking (IPPT, VOC, Range)
 
 Built with:
-- Python, Google Sheets API, Pandas, Regex
+- Javascript, HTML
 
 [👉 View Repo](https://github.com/Ciderlyy/SOFUN-Tracker)
 

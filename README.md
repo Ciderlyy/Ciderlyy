@@ -12,7 +12,7 @@
 
 ## 🚀 About Me (if you care)
 
-<img align="right" alt="Me coding at 3 AM" width="400" src="https://mitadmissions.org/wp-content/uploads/2020/12/sadcomputer.gif">
+<img align="right" alt="Me coding at 3 AM" width="350" src="https://mitadmissions.org/wp-content/uploads/2020/12/sadcomputer.gif">
 
 - 🔭 Currently working on **Military Automation** (because apparently that's a thing)
 - 🌱 Learning **Ethical Hacking** (the legal kind, mostly)

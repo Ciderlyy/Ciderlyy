@@ -53,16 +53,16 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciderly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderly&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciderly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderly&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciderly&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciderly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderly&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderly&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
 </div>
 
 ---

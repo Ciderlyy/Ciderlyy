@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ciderly;Dropout+with+better+skills;Lazy+but+effective;Professional+procrastinator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ciderly;I+dont+belong+in+the+military;Lazy+but+not+lazy?;Professional+procrastinator" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,21 +10,47 @@
 
 ---
 
-## 🚀 About Me (if you care)
+## 🚀 About Me
 
 <img align="right" alt="Me coding at 3 AM" width="350" src="https://mitadmissions.org/wp-content/uploads/2020/12/sadcomputer.gif">
 
-- 🔭 Currently working on **Military Automation** (because apparently that's a thing)
+- 🔭 Currently working on **Military Automation** 
 - 🌱 Learning **Ethical Hacking** (the legal kind, mostly)
-- 💬 Ask me about **Python, Web Dev, Automation** - or don't, I'm not your dad
-- 📫 Reach me at **demonicrift9@gmail.com** (I'll probably respond... eventually)
-- ⚡ Fun fact: **I'm a Deepwoken gamer** (yes, I'm that person)
+- 💬 Ask me about **Python, Web Dev, Automation**
+- 📫 Reach me at **demonicrift9[at]gmail[dot]com**
+- ⚡ Fun fact: **I'm a Deepwoken gamer** 
 - 🎯 Goal: **Making technology work so I don't have to**
-- 🏆 Achievement: **Survived another day without adulting properly**
+- 🏆 Achievement: **Survived another day**
+
+<details>
+<summary>👀 Here's the serious version (click to expand)</summary>
+
+I'm a developer with experience in Python and web automation, currently working in a high-security military environment. I build tools that automate SAF internal processes such as duty assignment, equipment tracking, and KPI reporting.
+
+My long-term goal is to specialize in cybersecurity and ethical hacking. I'm learning about network security, malware analysis, and threat intelligence in my free time while applying automation to real-world tasks.
+
+</details>
 
 ---
 
-## 🌐 Social Media (if you're into that)
+## 🔧 Featured Projects
+
+### 🛡️ Military Automation Toolkit
+A command-line toolkit to automate SAF workflows like:
+- 📅 Duty scheduling with leave collision detection
+- 📦 Store IC tools for inventory logging
+- 📊 Performance tracking (IPPT, VOC, Range)
+
+Built with:
+- Javascript, HTML
+
+[👉 View Repo](https://github.com/Ciderlyy/SOFUN-Tracker)
+
+> My current project in the military
+
+---
+
+## 🌐 Social Media
 
 <div align="center">
   <a href="https://twitter.com/real_ciderly" target="_blank">
@@ -37,8 +63,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
-
-*Warning: I'm funnier on Twitter than I am in real life*
 
 ---
 
@@ -73,8 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ciderlyy&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" alt="GitHub Activity Graph" />
 </div>
 
-*Yes, I know my streak is pathetic. I have a life, okay?*
-
 ---
 
 ## 🏆 GitHub Trophies (I have achievements, I swear):
@@ -99,5 +121,3 @@
     <img src="https://img.shields.io/badge/Buy+me+a+coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
-
-*Or just follow me on Twitter. That's free.*
